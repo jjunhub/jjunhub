@@ -1,9 +1,9 @@
 # SangJun Park 🐒
 
-### Who Am I 
-
 
 <img align = right src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunhub" />
+
+### Who Am I 
 
 - 🖥️ I major in Dept. of Software
 - 🏠 I live in Suwon, Gyeonggi-do in Korea.
@@ -11,6 +11,8 @@
         <img src = "https://img.shields.io/badge/My%20Velog-33FF99" width = 60px/>
 
   </a>
+<br>
+<br>
 
 ### Experience
 
