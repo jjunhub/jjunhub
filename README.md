@@ -11,8 +11,6 @@
         <img src = "https://img.shields.io/badge/My%20Velog-33FF99" width = 60px/>
 
   </a>
-<br>
-<br>
 
 ### Experience
 
