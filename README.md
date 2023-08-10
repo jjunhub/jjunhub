@@ -1,6 +1,10 @@
 # SangJun Park 🐒
 
-## Who Am I 
+### Who Am I 
+
+
+<img align = right src ="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jjunhub" />
+
 
 - 🖥️ I major in Dept. of Software
 - 🏠 I live in Suwon, Gyeonggi-do in Korea.
@@ -9,11 +13,7 @@
         
   </a>
 
-## Experience
-
-<div align = center>
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=jjunhub"/>
-</div>
+### Experience
 
 - 🏫 Ajou University, Software (2020.03 ~ )
   
