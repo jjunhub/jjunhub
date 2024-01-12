@@ -15,5 +15,3 @@
 ### Experience
 
 - 🏫 Ajou University, Software (2020.03 ~ )
-  
-- <a href ="https://github.com/DogbalBirdbal">🐾 GBSB Project, BackEnd</a> (2022.11 ~ 2022.12)
