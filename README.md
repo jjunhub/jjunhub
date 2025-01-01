@@ -1,17 +1,45 @@
-# SangJun Park 🐒
+## 안녕하세요!
+사용자 경험을 중요시하는 개발자 박상준입니다.
 
+## ⚡ Skills
+**Language**
+  <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-<img align = right src ="https://github-readme-stats.vercel.app/api/top-langs/?username=jjunhub" />
+**Framework & Library**
+<br>
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Spring Security](https://img.shields.io/badge/Spring%20Securirty-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
 
-### Who Am I 
+**Database**
+<br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-- 🖥️ I major in Dept. of Software
-- 🏠 I live in Suwon, Gyeonggi-do in Korea.
-- <a href = "https://velog.io/@jjunhub">
-        <img src = "https://img.shields.io/badge/My%20Velog-33FF99" width = 60px/>
+**Tool**
+<br>
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Jacoco](https://img.shields.io/badge/Jacoco-%23981E32?style=for-the-badge&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-%23362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-  </a>
+**Cloud**
+<br>
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Experience
+## ⚡ Interested in
+**소프트웨어 테스트**, **쿠버네티스**
 
-- 🏫 Ajou University, Software (2020.03 ~ )
+## 🌱 Projects
+- [우학동 : 동아리 관리 자동화 SaaS](https://github.com/team8901) ( 2024 AJOU SoftCon 1st prize. 2024.09 ~ 2024.12 )
+- [하비위클리](https://www.hobbly.co.kr/) ( 2024 Student Start-up Promising Team 300
+   2024.03~2024.09 )
+
+## ⚙️ ETC
+- [진행한 스터디](https://www.notion.so/jjunhub/15969b3a7dff804d9f8be144796471a9)
+- [기술 블로그](https://jjunhub.tistory.com/)
