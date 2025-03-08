@@ -1,16 +1,16 @@
-## 안녕하세요!
+## 👋 Hi there!
 사용자 경험을 중요시하는 개발자 박상준입니다.
 
 ## ⚡ Skills
 **Language**
-  <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+  <br> ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
-**Framework & Library**
+**Framework**
 <br>
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Spring Security](https://img.shields.io/badge/Spring%20Securirty-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+
 
 **Database**
 <br>
@@ -21,12 +21,12 @@
 <br>
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-%23D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
-![Jacoco](https://img.shields.io/badge/Jacoco-%23981E32?style=for-the-badge&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-%23362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-**Cloud**
+**Infra**
 <br>
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
